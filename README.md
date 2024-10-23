@@ -1,5 +1,7 @@
-Final Submission for Basic JavaScript Programming
+Final Submission for Basic JavaScript Programming.
+
 This repository contains the source code for the final submission as a requirement for completing the Basic JavaScript Programming module at Dicoding.
+
 In this submission, I have applied various fundamental JavaScript concepts, such as:
 
 - Variables and Data Types
